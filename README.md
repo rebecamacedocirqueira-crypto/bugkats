@@ -39,7 +39,7 @@ Jogo do gênero Shoot 'em Up 2D (Top-Down Scrolling) para PC, desenvolvido como 
 ## Integrantes da Equipe
 
 - Evelin Maria
-- Johão Victor
+- Johão Victor Lacerda
 - Rebeca Macedo
 
 ---
