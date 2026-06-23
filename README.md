@@ -7,7 +7,7 @@ Após diversos testes, identificamos que o jogo **não funciona corretamente ape
 O arquivo **UnityPlayer.dll** e outros componentes necessários são muito grandes e não puderam ser enviados para o GitHub.
 
 👉 Por isso, o jogo completo foi disponibilizado no Google Drive:  
-https://drive.google.com/file/d/1ZNMC6EYDqyGQ1AvqGhSZfPj5MZHhDs9G/view?usp=drive_link
+https://drive.google.com/file/d/1X7L3WH3Dw4V04BPH7oGTBk3tpYoAP6NR/view?usp=drive_link
 
 ---
 
